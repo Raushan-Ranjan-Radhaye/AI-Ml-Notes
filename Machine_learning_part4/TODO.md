@@ -1,0 +1,1 @@
+# TODO: Fix AdaBoostClassifier TypeError in Ensamble.ipynb\n\n## Steps:\n1. [ ] Create TODO.md (tracking progress)\n2. [ ] Edit Ensamble.ipynb to fix 'rabdom_state' -> 'random_state'\n3. [ ] Verify fix and complete task\n\nCurrent status: Starting step 1.
