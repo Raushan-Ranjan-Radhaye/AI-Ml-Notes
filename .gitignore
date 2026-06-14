@@ -1,2 +1,10 @@
 .env
-node_modules/
+# Python virtual environments
+.venv/
+venv/
+myenv/
+env/
+
+# Python cache
+__pycache__/
+*.pycnode_modules/
